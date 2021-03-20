@@ -134,12 +134,12 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./apple-buttom.png');
+    background-image: url('./img/apple-buttom.png');
     margin-right: -4rem;
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./google-play-buttom.png');
+    background-image: url('./img/google-play-buttom.png');
 }
 
 
